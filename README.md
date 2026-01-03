@@ -25,3 +25,11 @@ The project also includes a user-friendly web interface developed using the Flas
 For data, the project uses a small spam dataset, which is stored in a CSV file and contains sample spam and ham messages. The source of this dataset is publicly available datasets for spam detection, suitable for academic and learning purposes. The tools and libraries used in this project include Python for programming, Pandas for data manipulation, Scikit-learn for machine learning and feature extraction, Pickle for saving models, and Flask along with HTML/Bootstrap for web development.
 
 This project demonstrates a complete end-to-end machine learning workflow, from data preprocessing, feature extraction, model training, evaluation, to web-based deployment. It provides a practical example of how machine learning can be integrated with web technologies to create interactive and intelligent applications. It is also optimized for usability and clarity, making it suitable for educational purposes, internships, and real-world prototyping of spam detection systems.
+
+*OUTPUT*:
+
+<img width="1816" height="884" alt="Image" src="https://github.com/user-attachments/assets/1f609dd6-e970-4d72-86cc-7c7d405d3f63" />
+
+<img width="1872" height="945" alt="Image" src="https://github.com/user-attachments/assets/cd05f05f-24b3-4ef8-9839-6ed1e43a3f6f" />
+
+<img width="1825" height="933" alt="Image" src="https://github.com/user-attachments/assets/5bc0fae2-8cbc-4d8e-a349-58d16290a46d" />
